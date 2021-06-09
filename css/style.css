@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: white;
+    padding: 20px 0;
+    color: #697CA6;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+}
+.wrap{
+    width: 1441px;
+    max-height: 700px;
+    margin: 0 auto;
+}
+.header-wrap{
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+#my_home{
+    color:#5E81FE;
+    margin-left: 50px;
+}
+.left{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.icon{
+    margin-left: 40px;
+}
+.nav-right{
+    margin-top: -20px;
+    margin-left: 1000px;
+}
+#home{
+    margin-left: 120px;
+}
+.text_menu{
+    text-decoration: none;
+    margin-left: 60px;
+    color: #697CA6;
+    font-size: 18px;
+}
+.button{
+    margin-left: 40px;
+    border-radius: 3px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #D2E1FF ;
+    padding: 10px;
+}
+.promo{
+    margin-left: 200px;
+    max-width: 1441px;
+    max-height: 600px;
+    background-color: #F4F7FF;
+
+}
+.promo-wrap{
+    background-image: url(../img/background.png);
+    height: 570px;
+}
+
+.speed{
+    position: absolute;
+    left: 670px;
+    top: 471px;
+}
+.play{
+    position: absolute;
+    left: 850px;
+    top: 300px;
+}
+.promo-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.promo-title-weign{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #3D4F9F;
+    text-shadow:  0 0.4em 5px rgba(122,122,122,0.5);
+    margin-top: 80px;
+}
+.second-row{
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #3D4F9F;
+}
+.word-second-row{
+    font-size: 48px;
+    font-weight: 900px;
+}
+.third-row{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #8D96BD;
+}
+.logos{
+    background-color: white;
+    padding: 50px 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
